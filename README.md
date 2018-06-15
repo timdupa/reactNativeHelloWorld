@@ -1,2 +1,2 @@
 # reactNativeHelloWorld
-This is a repository of my first experiences with React Native
+This is a repository of my first experiences with React Native.
